@@ -55,9 +55,9 @@ function Fly(fid, type, color, sh, sw, x, y, fly_img, name) {
 	this.fid = fid;
 	this.move_strange = false;
 	if (Math.random() < 0.5) {
-		this.gender = "Äá»±c";
+		this.gender = "CCtv";
 	} else {
-		this.gender = "CÃ¡i";
+		this.gender = "sisiTV";
 	}
 
 
