@@ -246,7 +246,7 @@ $(document).ready(function() {
 	// alert(value);
 		switch (value) { 
 		case 1: 
-			var fly = new Fly("test", "Terbang", "Abu2", height_fly, width_fly, 0, 0, "https://storage.fshare.vn/web/flies.png", "Long ruá»“i");	
+			var fly = new Fly("test", "Terbang", "Abu2", height_fly, width_fly, 0, 0, "https://storage.fshare.vn/web/flies.png", "Jalan-Jalan");	
 			break;
 		case 2: 
 			var fly = new Fly("test", "Terbang", "Hijau", height_fly, width_fly, 0, 0, "https://storage.fshare.vn/web/style_1.png", "Rajanya");
